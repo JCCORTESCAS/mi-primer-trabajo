@@ -1,2 +1,5 @@
-# mi-primer-trabajo
-mi primer trabajo
+# mi primer documento
+
+##subtitulo del documento
+
+###otro subtitulo del documento
