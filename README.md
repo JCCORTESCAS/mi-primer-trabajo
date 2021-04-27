@@ -21,3 +21,5 @@ Herbert Spencer
 [Enlace a la pagina de la UCR](https://www.ucr.ac.cr/)
 
 [Enlace al sitio web del curso](https://gf0604-procesamientodatosgeograficos.github.io/2021i/)  
+
+![Logo de bicicletas Santa Cruz](https://www.pngegg.com/es/png-wegyc)  
