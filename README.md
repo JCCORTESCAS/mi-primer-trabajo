@@ -8,8 +8,8 @@
 ########otro subtitulo de mi primer documento
 
 
-este es el texto de mi primer trabajo
-**primer texto de mi trabajo**  
+este es el texto de mi primer trabajo  
+**primer texto de mi trabajo**    
 *primer texto de mi trabajo*
 
 
