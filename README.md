@@ -22,4 +22,4 @@ Herbert Spencer
 
 [Enlace al sitio web del curso](https://gf0604-procesamientodatosgeograficos.github.io/2021i/)  
 
-![](https://www.pngegg.com/es/png-wegyc)  
+![](https://www.pngegg.com/es/png-wegyc)
