@@ -9,7 +9,7 @@
 
 
 este es el texto de mi primer trabajo  
-**primer texto de mi trabajo** 
+**primer texto de mi trabajo**   
 __primer texto de mi documento__  
 *primer texto de mi trabajo*
 
