@@ -13,7 +13,7 @@ este es el texto de mi primer trabajo
 __primer texto de mi documento__  
 *primer texto de mi trabajo*    
 
->*La moral no sabe nada de fronteras geográficas o distinciones de raza*          
+>*La moral no sabe nada de fronteras geográficas o distinciones de raza*               
 >   
 Herbert Spencer  
 
